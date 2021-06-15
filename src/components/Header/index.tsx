@@ -314,7 +314,7 @@ export default function Header() {
           >
             {t('pool')}
           </StyledNavLink>
-     
+
           <StyledExternalLink id={`stake-nav-link`} href={'https://uniswap.info'}>
             Charts <span style={{ fontSize: '11px' }}>↗</span>
           </StyledExternalLink>
