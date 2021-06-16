@@ -4,8 +4,8 @@
     "static/js/0.454e5a78.chunk.js.map": "/testvds/static/js/0.454e5a78.chunk.js.map",
     "static/js/1.ab9e1769.chunk.js": "/testvds/static/js/1.ab9e1769.chunk.js",
     "static/js/1.ab9e1769.chunk.js.map": "/testvds/static/js/1.ab9e1769.chunk.js.map",
-    "main.js": "/testvds/static/js/main.0162fea6.chunk.js",
-    "main.js.map": "/testvds/static/js/main.0162fea6.chunk.js.map",
+    "main.js": "/testvds/static/js/main.580a02b8.chunk.js",
+    "main.js.map": "/testvds/static/js/main.580a02b8.chunk.js.map",
     "runtime-main.js": "/testvds/static/js/runtime-main.8332981f.js",
     "runtime-main.js.map": "/testvds/static/js/runtime-main.8332981f.js.map",
     "static/css/4.7fb2c0ed.chunk.css": "/testvds/static/css/4.7fb2c0ed.chunk.css",
@@ -22,7 +22,7 @@
     "static/js/9.4a9b3d5f.chunk.js": "/testvds/static/js/9.4a9b3d5f.chunk.js",
     "static/js/9.4a9b3d5f.chunk.js.map": "/testvds/static/js/9.4a9b3d5f.chunk.js.map",
     "index.html": "/testvds/index.html",
-    "precache-manifest.fd3085586cbb934bd362915e12022876.js": "/testvds/precache-manifest.fd3085586cbb934bd362915e12022876.js",
+    "precache-manifest.02e64fd47083852643a18cd02358e612.js": "/testvds/precache-manifest.02e64fd47083852643a18cd02358e612.js",
     "service-worker.js": "/testvds/service-worker.js",
     "static/css/4.7fb2c0ed.chunk.css.map": "/testvds/static/css/4.7fb2c0ed.chunk.css.map",
     "static/js/4.74ff3272.chunk.js.LICENSE.txt": "/testvds/static/js/4.74ff3272.chunk.js.LICENSE.txt",
@@ -63,6 +63,6 @@
     "static/js/runtime-main.8332981f.js",
     "static/css/4.7fb2c0ed.chunk.css",
     "static/js/4.74ff3272.chunk.js",
-    "static/js/main.0162fea6.chunk.js"
+    "static/js/main.580a02b8.chunk.js"
   ]
 }
